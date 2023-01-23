@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\Repo2\Finish1\Finish01\bin\Debug\net6.0\Finish01.exe
+C:\Users\ASUS\Desktop\Repo2\Finish1\Finish01\bin\Debug\net6.0\Finish01.deps.json
+C:\Users\ASUS\Desktop\Repo2\Finish1\Finish01\bin\Debug\net6.0\Finish01.runtimeconfig.json
+C:\Users\ASUS\Desktop\Repo2\Finish1\Finish01\bin\Debug\net6.0\Finish01.dll
+C:\Users\ASUS\Desktop\Repo2\Finish1\Finish01\bin\Debug\net6.0\Finish01.pdb
+C:\Users\ASUS\Desktop\Repo2\Finish1\Finish01\obj\Debug\net6.0\Finish01.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Repo2\Finish1\Finish01\obj\Debug\net6.0\Finish01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Repo2\Finish1\Finish01\obj\Debug\net6.0\Finish01.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Repo2\Finish1\Finish01\obj\Debug\net6.0\Finish01.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Repo2\Finish1\Finish01\obj\Debug\net6.0\Finish01.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Repo2\Finish1\Finish01\obj\Debug\net6.0\Finish01.dll
+C:\Users\ASUS\Desktop\Repo2\Finish1\Finish01\obj\Debug\net6.0\refint\Finish01.dll
+C:\Users\ASUS\Desktop\Repo2\Finish1\Finish01\obj\Debug\net6.0\Finish01.pdb
+C:\Users\ASUS\Desktop\Repo2\Finish1\Finish01\obj\Debug\net6.0\Finish01.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\Repo2\Finish1\Finish01\obj\Debug\net6.0\ref\Finish01.dll
